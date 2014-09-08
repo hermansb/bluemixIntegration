@@ -6,6 +6,6 @@ applications:
   name: nodeAppGitHubTest
   command: node app.js
   path: .
-  domain: mybluemix.net
+  domain: stage1.mybluemix.net
   instances: 1
   memory: 64M
