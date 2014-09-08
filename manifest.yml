@@ -1,0 +1,11 @@
+applications:
+- services:
+  - nodeAppGitHubTest:DataCache
+  disk_quota: 1024M
+  host: nodeAppGitHubTest
+  name: nodeAppGitHubTest
+  command: node app.js
+  path: .
+  domain: mybluemix.net
+  instances: 1
+  memory: 64M
