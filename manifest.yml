@@ -1,6 +1,6 @@
 applications:
 - services:
-  - nodeAppGitHubTest:DataCache
+  - Data Cache-y0
   disk_quota: 1024M
   host: nodeAppGitHubTest
   name: nodeAppGitHubTest
